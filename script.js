@@ -57,10 +57,14 @@ let firstObject = { firstName: 'Anders', age: 20, city: 'Bergen' };
 // legger ny verdi til variabel firstName, fungerer kun med variabel som har let
 firstName = 'Marie';
 
+
+//45 vil bli en string her
 let nrOne = 45;
 let nrTwo = 'Frank';
 
 let sum = nrOne + nrTwo;
+
+//FUNCTIONS
 
 //Regular function
 function addNr() {
