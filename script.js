@@ -58,7 +58,7 @@ let firstObject = { firstName: 'Anders', age: 20, city: 'Bergen' };
 firstName = 'Marie';
 
 
-//45 vil bli en string her
+//45 vil bli en string i sum fordi vi legger sammen tall og string
 let nrOne = 45;
 let nrTwo = 'Frank';
 
